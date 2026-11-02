@@ -16,7 +16,7 @@
 
 ## 在线地址
 
-- GitHub Pages（本仓库）：`Settings → Pages` 开启后为 `https://<用户名>.github.io/<仓库名>/`
+- GitHub Pages（本仓库）：https://ttbingo.github.io/chinese-reading-41/
 - 备份镜像：https://reading-41-points.app.workbuddy.host/?sharecode=J4NGJKTIYH
 
 ## 更新方式
